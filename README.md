@@ -1,6 +1,6 @@
 ## Building Geoprocessing Tools in ArcGIS
 
-This repro include the slides from the Building Geoprocessing Tools in ArcGIS workshop at the Esri 2023 User Conference.
+This repo include the slides from the Building Geoprocessing Tools in ArcGIS workshop at the Esri 2023 User Conference.
 
 #### Workshop description
 
